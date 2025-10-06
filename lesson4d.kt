@@ -19,5 +19,5 @@ fun simpleIntrest(rate:Int, time:Int,principal:Double){
 fun Circle( r:Double){
     val area : Double=(r*r*44)/7
     println( area)
-
+    
 }
